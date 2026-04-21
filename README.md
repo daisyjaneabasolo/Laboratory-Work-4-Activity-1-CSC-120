@@ -14,22 +14,22 @@ https://colab.research.google.com/drive/1yGfDTP8MxJYeaEfpyh7eqdGNThinJnoV?usp=sh
 | AUC Score           | 0.82                   | 0.78                   |
 
 
-📊 Guide Questions (Student Explanation & Reflection)
-A. Model Evaluation Analysis
-What were the weakest-performing classes based on the confusion matrix?
-How did Precision, Recall, and F1-score vary across classes?
-What does a low recall indicate in your model?
-How does AUC score reflect model performance compared to accuracy?
-B. Model Improvement
-How did data augmentation affect validation accuracy?
-Why is Batch Normalization important in CNNs?
-What role did Dropout play in improving your model?
-How did Early Stopping prevent overfitting?
-C. Performance Comparison
-What improvements were observed after modifying the model?
-Which enhancement contributed the most to performance improvement? Why?
-Did the gap between training and validation accuracy decrease? Explain.
-D. Explainability (Grad-CAM Integration)
-How did Grad-CAM help in understanding model predictions?
-Did the improved model focus on more relevant regions? Provide evidence.
-Why is explainability important in real-world AI applications?
+# Guide Questions (Student Explanation & Reflection)
+#A. Model Evaluation Analysis
+1. What were the weakest-performing classes based on the confusion matrix?
+2. How did Precision, Recall, and F1-score vary across classes?
+3. What does a low recall indicate in your model?
+4. How does AUC score reflect model performance compared to accuracy?
+#B. Model Improvement
+5. How did data augmentation affect validation accuracy?
+6. Why is Batch Normalization important in CNNs?
+7. What role did Dropout play in improving your model?
+8. How did Early Stopping prevent overfitting?
+#C. Performance Comparison
+9. What improvements were observed after modifying the model?
+10. Which enhancement contributed the most to performance improvement? Why?
+11. Did the gap between training and validation accuracy decrease? Explain.
+#D Explainability (Grad-CAM Integration)
+12. How did Grad-CAM help in understanding model predictions?
+13. Did the improved model focus on more relevant regions? Provide evidence.
+14. Why is explainability important in real-world AI applications?
