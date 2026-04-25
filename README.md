@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1yGfDTP8MxJYeaEfpyh7eqdGNThinJnoV?usp=sh
 
 ## PART 4: Compare Results (Before vs After)
 
-| Metric              | Baseline Model (Lab 3) | Improved Model (Lab 4) |
+| Metric              | Baseline Model         | Improved Model         |
 |---------------------|------------------------|------------------------|
 | Training Accuracy   | 0.9849 (98.5%)         | 0.3587 (35.9%)         |
 | Validation Accuracy | 0.4810 (48.1%)         | 0.4340 (43.4%)         |
