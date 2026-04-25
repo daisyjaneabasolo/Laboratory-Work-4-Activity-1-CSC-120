@@ -1,5 +1,5 @@
 # Laboratory-Work-4-Activity-1-CSC-120
-
+This is Google Collab link
 https://colab.research.google.com/drive/1yGfDTP8MxJYeaEfpyh7eqdGNThinJnoV?usp=sharing
 
 ## PART 4: Compare Results (Before vs After)
