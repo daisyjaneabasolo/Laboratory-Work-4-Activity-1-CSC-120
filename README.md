@@ -2,17 +2,6 @@
 This is Google Collab link
 https://colab.research.google.com/drive/1yGfDTP8MxJYeaEfpyh7eqdGNThinJnoV?usp=sharing
 
-## PART 4: Compare Results (Before vs After)
-
-| Metric              | Baseline Model             | Improved Model         |
-|---------------------|----------------------------|------------------------|
-| Training Accuracy   | ~5%                        | ~75–85%                |
-| Validation Accuracy | ~5%                        | ~70–80%                |
-| Precision           | 0.00–0.18 (mostly 0.00)    | 0.65–0.80              |
-| Recall              | 0.00–0.64 (mostly 0.00)    | 0.60–0.78              |
-| F1-score            | 0.01–0.10 (mostly 0.00)    | 0.65–0.75              |
-| AUC Score           | ~0.50 (random guess level) | ~0.85–0.90             |
-
 
 ## GUIDE QUESTIONS (Student Explanation & Reflection)
 ---
