@@ -2,6 +2,9 @@
 This is Google Collab link
 https://colab.research.google.com/drive/1VBvgNWFQtdUqX6y9i-5i0BmuQ5KIlwpR?usp=sharing
 
+This is my model_name.keras 
+https://drive.google.com/file/d/1t7xK8C37XBWBN6Wp7uUjWaEb56Zl7F9W/view?usp=drive_link
+
 
 ## GUIDE QUESTIONS (Student Explanation & Reflection)
 ---
